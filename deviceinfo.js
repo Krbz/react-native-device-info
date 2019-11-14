@@ -29,6 +29,18 @@ if (!RNDeviceInfo) {
 const devicesWithNotch = [
   {
     brand: 'Apple',
+    model: 'iPhone 11',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 11 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 11 Pro Max',
+  },
+  {
+    brand: 'Apple',
     model: 'iPhone X',
   },
   {
@@ -81,6 +93,22 @@ const devicesWithNotch = [
   },
   {
     brand: 'Huawei',
+    model: 'Mate 20 Lite',
+  },
+  {
+    brand: 'Huawei',
+    model: 'Mate 20 Pro',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P30 Lite',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P30 Pro',
+  },
+  {
+    brand: 'Huawei',
     model: 'Nova 3',
   },
   {
@@ -116,12 +144,36 @@ const devicesWithNotch = [
     model: 'LM-V405', //V40 ThinQ
   },
   {
+    brand: 'Motorola',
+    model: 'Moto g7 Play',
+  },
+  {
+    brand: 'Motorola',
+    model: 'Moto g7 Power',
+  },
+  {
+    brand: 'Motorola',
+    model: 'One',
+  },
+  {
+    brand: 'Motorola',
+    model: 'Motorola One Vision',
+  },
+  {
     brand: 'Nokia',
-    model: '6.1 Plus',
+    model: '5.1 Plus',
+  },
+  {
+    brand: 'Nokia',
+    model: 'Nokia 6.1 Plus',
   },
   {
     brand: 'Nokia',
     model: '7.1',
+  },
+  {
+    brand: 'Nokia',
+    model: '8.1',
   },
   {
     brand: 'OnePlus',
@@ -214,6 +266,10 @@ const devicesWithNotch = [
   {
     brand: 'xiaomi',
     model: 'Redmi 6 Pro',
+  },
+  {
+    brand: 'xiaomi',
+    model: 'Redmi Note 7',
   },
   {
     brand: 'xiaomi',
